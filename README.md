@@ -1,5 +1,5 @@
 # 📊 Sales Dashboard - Power BI Project
-
+<img width="1425" height="802" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/2c83b774-2ca5-4bf4-8423-c0b7501d26a4" />
 ## Overview
 
 This project is an interactive Sales Dashboard developed in Power BI to analyze sales performance, profitability, customer metrics, and product trends. The dashboard enables stakeholders to monitor key business metrics and make data-driven decisions.
